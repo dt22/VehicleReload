@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.VehicleReload",
+  "AssemblyName": "VehicleReload.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "dtony"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Vehicle Reload"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Allows for reloading of ground vehicle weapons"
+    }
+  ],
+  "Dependencies": []
+}
